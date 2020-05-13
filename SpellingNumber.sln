@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingNumber", "SpellingNumber\SpellingNumber.csproj", "{4AD19329-7A04-4EC2-93F8-858BC672AED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingNumberTest", "SpellingNumberTest\SpellingNumberTest.csproj", "{25E642B2-A035-488E-9502-257D48D6F4F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD19329-7A04-4EC2-93F8-858BC672AED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD19329-7A04-4EC2-93F8-858BC672AED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD19329-7A04-4EC2-93F8-858BC672AED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD19329-7A04-4EC2-93F8-858BC672AED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E642B2-A035-488E-9502-257D48D6F4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E642B2-A035-488E-9502-257D48D6F4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E642B2-A035-488E-9502-257D48D6F4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E642B2-A035-488E-9502-257D48D6F4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {594A10D9-1215-43CE-B69F-2CC2951121E0}
+	EndGlobalSection
+EndGlobal
